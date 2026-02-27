@@ -74,8 +74,6 @@ Volume = Length × Width × Height
 - NumPy  
 - Scikit-learn (K-Means)  
 - Matplotlib  
-- Jupyter Notebook  
-
 ---
 
 ## 📥 Input
